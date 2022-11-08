@@ -10,6 +10,6 @@ public class GitTest {
         System.out.println("将本地仓库代码推送到github远程仓库");
         
         System.out.println("这是我在github上面手动添加的代码，将会被拉取到本地仓库，作测试使用");
-
+        System.out.println("这是我在github上面手动添加的代码2，将会被拉取到本地仓库，作测试使用");
     }
 }
