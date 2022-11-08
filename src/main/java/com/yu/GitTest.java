@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("这是我第二次新增的内容0v0");
 
         System.out.println("这是站在hot-fix分支上修改的");
+        System.out.println("将本地仓库代码推送到github远程仓库");
     }
 }
